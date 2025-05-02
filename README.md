@@ -1,13 +1,12 @@
 # Excel-Sales-Analytics
 
-In this project, I designed an interactive sales performance dashboard using Excel to uncover key trends in customer discounts, negotiation patterns, and unexplored market opportunities. By transforming raw sales data into actionable insights, the report helps businesses refine their pricing strategies, enhance customer engagement, and drive revenue growth.
+I developed a sales analysis report in Excel to help businesses optimize pricing strategies, evaluate discount trends, and identify untapped revenue opportunities. By leveraging pivot tables, advanced formulas, and dynamic visualizations, this tool transforms raw sales data into actionable insights, enabling teams to refine negotiations, target high-potential markets, and boost profitability.
 
-## Key Skills Applied & Developed:
-* **Data Transformation**: Cleaned and structured datasets using Power Query for efficient analysis.
-* **Advanced Analytics**: Leveraged pivot tables and basic DAX functions to derive meaningful sales metrics.
-* **Visual Storytelling**: Applied conditional formatting and intuitive design principles to highlight trends and outliers.
-* **Strategic Recommendations**: Delivered data-backed insights to improve sales tactics and customer retention.
-* **Domain Expertise**: Gained a deeper understanding of sales KPIs, pricing strategies, and market potential.
+Key Excel Skills Demonstrated:
+* **Pivot Tables & Charts**: Summarized complex sales data to reveal trends in customer behavior, regional performance, and discount effectiveness.
+* **Data Cleaning & Automation**: Used Power Query (Excel’s built-in ETL tool) to streamline data preparation and ensure accuracy.
+* **Conditional Formatting**: Highlighted critical metrics (e.g., low-margin deals, top-performing products) for quick decision-making.
+* **Dynamic Reporting**: Created user-friendly dashboards with slicers and timelines for real-time filtering.
+* **Sales Metrics Mastery**: Analyzed KPIs like average discount rates, customer lifetime value, and win/loss trends.
 
-This project goes beyond static reporting—it equips decision-makers with a dynamic tool to monitor performance, adapt to shifts in demand, and capitalize on growth opportunities. By bridging data analysis with real-world business strategy, I’ve helped organizations turn insights into measurable results.
-
+**Impact**: This project isn’t just a static report—it’s a repeatable framework for businesses to track performance, adapt strategies, and uncover growth opportunities directly within Excel, no advanced BI tools required.
