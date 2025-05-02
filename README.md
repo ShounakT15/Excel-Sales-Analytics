@@ -1,14 +1,13 @@
 # Excel-Sales-Analytics
 
-In this project, I've developed a dynamic sales report using Excel pivot tables, offering businesses invaluable insights into customer discounts, negotiation strategies, and untapped markets. These reports provide actionable recommendations, empowering businesses to refine sales tactics, elevate customer experiences, and maximize revenue.
+In this project, I designed an interactive sales performance dashboard using Excel to uncover key trends in customer discounts, negotiation patterns, and unexplored market opportunities. By transforming raw sales data into actionable insights, the report helps businesses refine their pricing strategies, enhance customer engagement, and drive revenue growth.
 
-## Throughout this journey, I've honed skills in:
-1. Pivot tables
-2. Power Query
-3. Basic DAX functions
-4. Effective Conditional Formatting
-5. Report Presentation
-6. Sales Domain Metrics
+## Key Skills Applied & Developed:
+* **Data Transformation**: Cleaned and structured datasets using Power Query for efficient analysis.
+* **Advanced Analytics**: Leveraged pivot tables and basic DAX functions to derive meaningful sales metrics.
+* **Visual Storytelling**: Applied conditional formatting and intuitive design principles to highlight trends and outliers.
+* **Strategic Recommendations**: Delivered data-backed insights to improve sales tactics and customer retention.
+* **Domain Expertise**: Gained a deeper understanding of sales KPIs, pricing strategies, and market potential.
 
+This project goes beyond static reporting—it equips decision-makers with a dynamic tool to monitor performance, adapt to shifts in demand, and capitalize on growth opportunities. By bridging data analysis with real-world business strategy, I’ve helped organizations turn insights into measurable results.
 
-The primary goal is to arm businesses with the tools and insights needed to monitor, assess, and optimize their sales efforts. By leveraging data-driven analysis, businesses can uncover opportunities for growth, adapt to market changes, and maintain a competitive edge in an ever-evolving landscape.
